@@ -70,5 +70,5 @@ Confusion Matrix:
 [[965   0]
  [ 31 119]]
 ```
-
+![Image](https://github.com/user-attachments/assets/c35dc235-21c0-451c-bc69-c93edc4074c3)
 
